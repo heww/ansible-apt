@@ -1,0 +1,8 @@
+---
+apt_ubuntu_uri: "http://cn.archive.ubuntu.com/ubuntu/"
+apt_ubuntu_components:
+  - main
+  - restricted
+  - universe
+  - multiverse
+  
